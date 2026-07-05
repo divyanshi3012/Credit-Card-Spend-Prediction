@@ -104,12 +104,12 @@ This model was used to establish the relationship between customer attributes an
 ```text
 Credit-Card-Spend-Prediction/
 │
-├── data/
-├── notebooks/
-├── outputs/
-├── README.md
-├── requirements.txt
-└── .gitignore
+├── Credit_Card_Consumption.ipynb        # Jupyter Notebook containing the complete ML workflow
+├── CreditConsumptionData.xlsx           # Credit consumption dataset
+├── CustomerBehaviorData.xlsx            # Customer behavior dataset
+├── CustomerDemographics.xlsx            # Customer demographics dataset
+├── Predicted_Credit_Consumption.csv     # Final predicted credit card spending
+└── README.md                            # Project documentation
 ```
 
 ---
@@ -139,6 +139,6 @@ Credit-Card-Spend-Prediction/
 
 **Divyanshi Singh**
 
-**GitHub:** https://github.com/your-username
+**GitHub:** https://github.com/divyanshi3012
 
-**LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile
+**LinkedIn:** https://www.linkedin.com/in/divyanshi-singh-82634a224
